@@ -1,0 +1,32 @@
+	Input
+	Store	Grado
+	Load	Sum
+	Add	Grado
+	Store	Sum
+	Input
+	Store	Gradtw
+	Load	Sum
+	Add	Gradtw
+	Store	Sum
+	Input
+	Store	Gradth
+	Load	Sum
+	Add	Gradth
+	Store	Sum
+	Input
+	Store	FinalE
+	Load	Sum
+	Add	FinalE
+	Store	Sum
+	Load	Sum
+	Add	FinalE
+	Store	Sum	
+	Load	Sum
+	Output
+	Halt
+Grado,	Dec	0
+Gradtw,	Dec	0
+Gradth,	Dec	0
+FinalE,	Dec	0
+Sum,	Dec	0
+Avg,	Dec	0
